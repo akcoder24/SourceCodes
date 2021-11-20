@@ -1,0 +1,2 @@
+print('Open=',sheet['D'+str(row)].value)
+    # print('Close=',sheet['F'+str(row)].value)
